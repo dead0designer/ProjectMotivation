@@ -31,6 +31,7 @@
 Это необходимо для установления одной из четырех тем оформления окна. 
 
 <a href="https://ibb.co/NKYmgCN"><img src="https://i.ibb.co/SBvdDym/imgonline-com-ua-2to1-r-QBJlt-Bti-Uw52-Y.png" alt="imgonline-com-ua-2to1-r-QBJlt-Bti-Uw52-Y" border="0"></a>
+---
 
 * Массивы сообщений являются локальными и включают в себя 11 и 26 значений соответственно.
 
